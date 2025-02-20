@@ -12,13 +12,12 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/FarisahHannes2210/omelette-recipe-frontend-mentor)
+- Live Site URL: [Live Site URL](https://FarisahHannes2210.github.io/omelette-recipe-frontend-mentor)
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@FarisahHannes2210](https://www.frontendmentor.io/profile/FarisahHannes2210)
+
 
